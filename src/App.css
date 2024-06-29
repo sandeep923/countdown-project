@@ -1,0 +1,52 @@
+*{
+  margin:0 ;
+  padding:0 ;
+}
+
+
+
+body{
+  background-image: url("https://as1.ftcdn.net/v2/jpg/08/22/76/24/1000_F_822762422_gI0u9SJRixuhAVyPcSjs2AS51XE7pBdP.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
+.Sec1{
+  border:1px solid white
+}
+
+.Sec2{
+  border:1px solid white
+}
+
+
+.Sec3{
+  border:1px solid white
+}
+
+.Sec4{
+  border:1px solid white
+}
+
+
+/* .heading-1{
+  font-family:sans-serif;
+  font-weight: bolder;
+  font-size:50px;
+  color: lightyellow;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxjLdiKukb34r0B97H7Btd0hvQO_xS0DNUA&s") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-position: center;
+  padding-top: 100px;
+} */
+
+
+.secMain{
+  padding-top: 250px;
+}
